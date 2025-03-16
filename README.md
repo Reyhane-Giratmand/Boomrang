@@ -61,7 +61,7 @@ _______________________________________________________
 ✔️ **Optimizing search & filters** for seamless discovery.\
 ✔️ **Creating a scalable book-matching system.**
 
-### 💎 Boomerang’s Unique Features\
+### 💎 Boomerang’s Unique Features
 ✨ **AI-powered book recommendations** – The more you swap, the smarter it gets!\
 🌟 **User reputation scoring** – Ensuring reliable book exchanges.\
 💬 **Integrated messaging** – Easy coordination for swaps.
